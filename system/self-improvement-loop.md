@@ -20,10 +20,11 @@ Run `scout-buy-signals` weekly or whenever Seth asks for PE, attorney, or market
 The workflow:
 
 1. Read current target accounts, signals, PE sponsors, attorney channels, and qualification rules.
-2. Search for current M&A, PE, ERP/HCM, leadership, growth, and transformation triggers.
-3. Convert each useful signal into a relationship move.
-4. Rate the signal A, B, C, or Nurture.
-5. Recommend updates to `data/signals.md`, `data/pe-sponsors.md`, `data/channel-attorneys.md`, and `data/followups.md`.
+2. Review the Wisconsin public-company universe and Deloitte Wisconsin 75 universe.
+3. Search for current M&A, PE, ERP/HCM, leadership, growth, and transformation triggers.
+4. Convert each useful signal into a relationship move.
+5. Rate the signal A, B, C, or Nurture.
+6. Recommend updates to `data/signals.md`, `data/pe-sponsors.md`, `data/channel-attorneys.md`, `data/wisconsin-public-companies.md`, `data/deloitte-wisconsin-75.md`, and `data/followups.md`.
 
 No signal should sit as trivia. It should become a relationship action, a watch item, or be consciously deprioritized.
 
@@ -90,6 +91,8 @@ Use these files for durable updates:
 - `data/channel-partners.md`: attorney and other channel relationships
 - `data/channel-attorneys.md`: attorney relationship map and value-first touches
 - `data/pe-sponsors.md`: PE sponsor, portco, hold-period, and buy-signal tracking
+- `data/wisconsin-public-companies.md`: Wisconsin public-company universe and public-company signal tracking
+- `data/deloitte-wisconsin-75.md`: Deloitte Wisconsin 75 private-company universe and private-company signal tracking
 - `data/signals.md`: market intelligence and trigger events
 - `data/target-accounts.md`: priority accounts
 - `system/seth-role.md`: Seth's role, priorities, and pipeline model

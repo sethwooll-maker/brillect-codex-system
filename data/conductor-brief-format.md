@@ -125,7 +125,7 @@ WATCHLIST
 [Accounts requiring attention — include what's at risk and next action]
 
 SIGNAL WATCH
-[PE signals, attorney channel signals, or market intelligence worth acting on this week — tagged with trigger event]
+[PE signals, public-company signals, Deloitte Wisconsin 75 signals, attorney channel signals, or market intelligence worth acting on this week — tagged with trigger event]
 
 EVENTS THIS WEEK / UPCOMING
 [From scout-events skill — high-fit events only, tagged with ICP relevance]

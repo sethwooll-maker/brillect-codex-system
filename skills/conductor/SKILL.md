@@ -73,6 +73,8 @@ Read the following project files before generating the brief:
 - `channel-partners.md` — partner relationships and outreach cadence
 - `channel-attorneys.md` — attorney channel relationships and deal-flow relevance
 - `pe-sponsors.md` — PE sponsor relationships, portcos, and buy signals
+- `wisconsin-public-companies.md` — Wisconsin public-company signal universe
+- `deloitte-wisconsin-75.md` — Deloitte Wisconsin 75 private-company signal universe
 - `watchlist.md` — accounts at risk
 - `target-accounts.md` — top 20 priority accounts
 - `icp-refinements.md` — ICP thinking and corrections
@@ -108,6 +110,12 @@ Based on recent conversations, here's what's changed in your project files:
 
 📁 pe-sponsors.md
 • [Updated] Mason Wells — operating partner path via AON / Brady Walsh
+
+📁 wisconsin-public-companies.md
+• [Updated] Brady Corp — Honeywell PSS acquisition creates active integration signal
+
+📁 deloitte-wisconsin-75.md
+• [Updated] RJ Schinner — keep on watchlist for AI/data readiness re-entry
 
 📁 pipeline-top.md
 • [Added] Brady Corp — $1.4B Honeywell acquisition creates live integration opportunity

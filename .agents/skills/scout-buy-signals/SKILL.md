@@ -48,6 +48,8 @@ Core sources and query patterns:
 - LinkedIn public posts when accessible
 - SEC filings and investor relations pages for public companies
 - Private equity portfolio pages
+- Wisconsin public-company universe in `data/wisconsin-public-companies.md`
+- Deloitte Wisconsin 75 universe in `data/deloitte-wisconsin-75.md`
 
 Suggested searches:
 
@@ -60,6 +62,19 @@ Suggested searches:
 - `"site:lawfirm.com Milwaukee acquisition private equity"` using specific law firm domains when relevant
 - `"[target company]" acquisition integration ERP CFO CHRO`
 - `"[PE sponsor]" portfolio Wisconsin acquisition`
+- `"[Wisconsin public company]" acquisition integration CFO CHRO ERP HCM`
+- `"[Wisconsin public company]" 10-K transformation restructuring ERP acquisition divestiture`
+- `"[Deloitte Wisconsin 75 company]" acquisition expansion ERP HCM CFO CHRO`
+- `"Deloitte Wisconsin 75" [company] acquisition expansion leadership`
+
+## Standing Universe Reviews
+
+Every full buy-signal scan should include two universe checks:
+
+1. **Wisconsin-based public companies** — review SEC filings, investor relations, press releases, earnings calls, and leadership announcements for M&A, restructuring, ERP/HCM, transformation, leadership, and public-company readiness signals.
+2. **Deloitte Wisconsin 75** — review the latest Deloitte Wisconsin 75 list and prioritize large private, family-owned, ESOP, and PE-backed companies with growth, ownership transition, ERP/HCM, leadership, or M&A triggers.
+
+Do not treat these universes as automatically qualified. Use them as signal pools, then apply relationship path, urgency, budget reality, and Brillect fit.
 
 ## Files To Read First
 
@@ -72,6 +87,8 @@ Before producing output, read the relevant files when they exist:
 - `data/channel-partners.md`
 - `data/pe-sponsors.md`
 - `data/channel-attorneys.md`
+- `data/wisconsin-public-companies.md`
+- `data/deloitte-wisconsin-75.md`
 - `data/icp-refinements.md`
 
 ## Evaluation Rules
@@ -117,10 +134,18 @@ PE / PORTCO WATCH
 ATTORNEY CHANNEL WATCH
 • [Firm/person] — [deal-flow relevance] — [recommended touch]
 
+WISCONSIN PUBLIC COMPANY WATCH
+• [Company] — [public-company signal] — [recommended relationship move]
+
+DELOITTE WISCONSIN 75 WATCH
+• [Company] — [private-company signal] — [recommended relationship move]
+
 SUGGESTED FILE UPDATES
 • `data/signals.md` — [add/update/none]
 • `data/pe-sponsors.md` — [add/update/none]
 • `data/channel-attorneys.md` — [add/update/none]
+• `data/wisconsin-public-companies.md` — [add/update/none]
+• `data/deloitte-wisconsin-75.md` — [add/update/none]
 • `data/followups.md` — [add/update/none]
 ```
 
@@ -133,4 +158,3 @@ SUGGESTED FILE UPDATES
 - Every top signal must include a next relationship move.
 - If no relationship path exists, recommend the most credible path to find one.
 - Keep Seth's voice and positioning helpful, curious, and credible.
-

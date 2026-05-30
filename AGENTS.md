@@ -156,6 +156,8 @@ Read these files at the start of every Conductor run. They are the system's work
 | data/channel-partners.md | Channel partner relationships and cadence |
 | data/channel-attorneys.md | Attorney channel relationships and deal-flow relevance |
 | data/pe-sponsors.md | PE sponsor relationships, portcos, and buy signals |
+| data/wisconsin-public-companies.md | Wisconsin public-company signal universe |
+| data/deloitte-wisconsin-75.md | Deloitte Wisconsin 75 private-company signal universe |
 | data/target-accounts.md | Top 20 priority accounts |
 | data/icp-refinements.md | ICP thinking and corrections |
 | data/conductor-brief-format.md | Brief output format — AUTHORITATIVE |
