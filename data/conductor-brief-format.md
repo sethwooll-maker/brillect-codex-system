@@ -118,11 +118,14 @@ Example: • Connor Douglass — Hanna Cylinders intro ask [Fresh PE acquisition
 CHANNEL PARTNERS
 [Partner outreach due this week — note last touchpoint and what value you can lead with]
 
+PE / ATTORNEY RELATIONSHIP MOVES
+[Highest-value PE sponsor or attorney channel moves — relationship path, value-first touch, and trigger]
+
 WATCHLIST
 [Accounts requiring attention — include what's at risk and next action]
 
 SIGNAL WATCH
-[PE signals or market intelligence worth acting on this week — tagged with trigger event]
+[PE signals, attorney channel signals, or market intelligence worth acting on this week — tagged with trigger event]
 
 EVENTS THIS WEEK / UPCOMING
 [From scout-events skill — high-fit events only, tagged with ICP relevance]
@@ -143,6 +146,7 @@ TOP 3 ACTIONS TODAY
 - A brief that surfaces only Pillar 1 actions is incomplete — check Pillar 2 and 3 status.
 - Pillar 3 (Community/Brand) is the most commonly neglected. If no Pillar 3 action has occurred in 5+ days, flag it and surface one specific action (event to attend, AI event planning step, speaking opportunity).
 - Channel partner cadence (Pillar 2) should generate at least one touchpoint action per week across the partner network.
+- PE sponsor and attorney channel moves should be treated as pipeline creation, not generic networking. Each move needs a trigger, relationship path, and value-first reason to contact.
 
 ## ICP Filter Rules
 

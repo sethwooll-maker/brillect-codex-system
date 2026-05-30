@@ -13,6 +13,20 @@ Make the Brillect operating system sharper over time by learning from meetings, 
 5. Weekly, use Weekly Scorecard to review what created real pipeline rather than just activity.
 6. Monthly, improve qualification rules, outreach style, assessment language, priority relationship categories, and trigger patterns.
 
+## Weekly Buy-Signal Workflow
+
+Run `scout-buy-signals` weekly or whenever Seth asks for PE, attorney, or market signal scouting.
+
+The workflow:
+
+1. Read current target accounts, signals, PE sponsors, attorney channels, and qualification rules.
+2. Search for current M&A, PE, ERP/HCM, leadership, growth, and transformation triggers.
+3. Convert each useful signal into a relationship move.
+4. Rate the signal A, B, C, or Nurture.
+5. Recommend updates to `data/signals.md`, `data/pe-sponsors.md`, `data/channel-attorneys.md`, and `data/followups.md`.
+
+No signal should sit as trivia. It should become a relationship action, a watch item, or be consciously deprioritized.
+
 ## Post-Meeting Output Standard
 
 After a meeting debrief, produce:
@@ -74,6 +88,8 @@ Use these files for durable updates:
 - `data/pipeline-top.md`: active qualified opportunities
 - `data/watchlist.md`: stalled or at-risk opportunities
 - `data/channel-partners.md`: attorney and other channel relationships
+- `data/channel-attorneys.md`: attorney relationship map and value-first touches
+- `data/pe-sponsors.md`: PE sponsor, portco, hold-period, and buy-signal tracking
 - `data/signals.md`: market intelligence and trigger events
 - `data/target-accounts.md`: priority accounts
 - `system/seth-role.md`: Seth's role, priorities, and pipeline model
@@ -84,4 +100,3 @@ Use these files for durable updates:
 ## Improvement Rule
 
 Every substantive debrief should try to preserve one useful learning, but only if it is real. Do not invent patterns from thin evidence.
-

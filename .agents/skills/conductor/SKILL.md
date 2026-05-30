@@ -71,6 +71,8 @@ Read the following project files before generating the brief:
 - `followups.md` — pending relationship actions
 - `signals.md` — market intelligence and PE portco signals
 - `channel-partners.md` — partner relationships and outreach cadence
+- `channel-attorneys.md` — attorney channel relationships and deal-flow relevance
+- `pe-sponsors.md` — PE sponsor relationships, portcos, and buy signals
 - `watchlist.md` — accounts at risk
 - `target-accounts.md` — top 20 priority accounts
 - `icp-refinements.md` — ICP thinking and corrections
@@ -100,6 +102,12 @@ Based on recent conversations, here's what's changed in your project files:
 📁 channel-partners.md
 • [Added] Ryan Chimenti (CIBC) — named contact confirmed, ACG Wisconsin President
 • [Updated] AON — meeting held March 31, Mason Wells intro surfaced
+
+📁 channel-attorneys.md
+• [Updated] Godfrey & Kahn — follow-up due while connection is warm
+
+📁 pe-sponsors.md
+• [Updated] Mason Wells — operating partner path via AON / Brady Walsh
 
 📁 pipeline-top.md
 • [Added] Brady Corp — $1.4B Honeywell acquisition creates live integration opportunity

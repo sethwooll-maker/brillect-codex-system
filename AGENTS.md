@@ -139,6 +139,7 @@ before executing any skill. Do not rely on memory of skill instructions — alwa
 | "draft outreach" / "write an email to" | skills/sales-outreach/SKILL.md |
 | "end of day" / "debrief the day" | skills/daily-debrief/SKILL.md |
 | "find events" / "scout events" | skills/scout-events/SKILL.md |
+| "scout buy signals" / "PE activity" / "portfolio companies" / "attorney channel" | skills/scout-buy-signals/SKILL.md |
 
 ---
 
@@ -153,6 +154,8 @@ Read these files at the start of every Conductor run. They are the system's work
 | data/followups.md | Relationship actions pending |
 | data/signals.md | Market intelligence and PE portco signals |
 | data/channel-partners.md | Channel partner relationships and cadence |
+| data/channel-attorneys.md | Attorney channel relationships and deal-flow relevance |
+| data/pe-sponsors.md | PE sponsor relationships, portcos, and buy signals |
 | data/target-accounts.md | Top 20 priority accounts |
 | data/icp-refinements.md | ICP thinking and corrections |
 | data/conductor-brief-format.md | Brief output format — AUTHORITATIVE |
@@ -200,4 +203,3 @@ A successful interaction helps Seth:
 - Build channel partner and community infrastructure for long-term growth
 
 **The ultimate measure: Is Milwaukee on track for $2M? What does it take to hit $4M?**
-
