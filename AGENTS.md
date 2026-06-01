@@ -131,6 +131,7 @@ before executing any skill. Do not rely on memory of skill instructions — alwa
 | "run conductor" / "daily brief" / "morning briefing" | skills/conductor/SKILL.md |
 | "brief me on [name]" / "prep me for" / meeting mentioned | skills/briefer/SKILL.md |
 | "debrief" after a meeting | skills/connector/SKILL.md |
+| "expand this client" / "account strategy" / "proposal strategy" / "SOW strategy" / "pursuit" | skills/account-strategy/SKILL.md |
 | "build a job order" | skills/job-order-builder/SKILL.md |
 | "revise this profile" / profile + role provided | skills/profile-reviser/SKILL.md |
 | "candidate summary for [name]" | skills/candidate-summary/SKILL.md |

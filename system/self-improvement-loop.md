@@ -12,7 +12,8 @@ Make the Brillect operating system sharper over time by learning from meetings, 
 4. The system updates durable memory and relevant Brillect data files when Seth approves or requests updates.
 5. Weekly, use Weekly Scorecard to review what created real pipeline rather than just activity.
 6. Weekly or biweekly, use Pipeline Review to inspect active opportunities, qualification gaps, and coaching themes.
-7. Monthly, improve qualification rules, outreach style, assessment language, priority relationship categories, and trigger patterns.
+7. Use Account Strategy for existing-client expansion, pursuit-stage opportunities, proposal strategy, and internal Brillect alignment.
+8. Monthly, improve qualification rules, outreach style, assessment language, priority relationship categories, and trigger patterns.
 
 ## Weekly Buy-Signal Workflow
 
@@ -43,6 +44,21 @@ The workflow:
 6. Recommend file updates so pipeline stays disciplined.
 
 The coaching standard: protect Seth's optimism, but discipline the pipeline.
+
+## Account Strategy Workflow
+
+Run `account-strategy` whenever Seth needs to expand an existing client, shape a proposal, prepare an SOW, or align internal Brillect consultants/leaders around a pursuit.
+
+The workflow:
+
+1. Start with Seth's rough brain dump about the account, client need, internal opinions, timing, budget, and decision needed.
+2. Separate what the client asked for from what the client likely needs.
+3. Identify the best Brillect wedge: readiness check, risk scan, outside lens, short assessment, focused workstream, interim support, or executive sounding-board session.
+4. Build the stakeholder map across client buyers, influencers, blockers, and Brillect internal experts.
+5. Recommend the internal alignment conversations Seth should have and the decision each conversation should produce.
+6. Produce the next client move and longer-term expansion path.
+
+The coaching standard: avoid broad firm pitches; lead with one client problem and the smallest valuable first step.
 
 ## Post-Meeting Output Standard
 
