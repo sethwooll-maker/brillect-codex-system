@@ -136,6 +136,7 @@ before executing any skill. Do not rely on memory of skill instructions — alwa
 | "candidate summary for [name]" | skills/candidate-summary/SKILL.md |
 | "update actuals" / Excel file uploaded | skills/actuals-intake/SKILL.md |
 | "show me my scorecard" / Monday Conductor | skills/weekly-scorecard/SKILL.md |
+| "pipeline review" / "deal review" / "coach me on pipeline" | skills/pipeline-review/SKILL.md |
 | "draft outreach" / "write an email to" | skills/sales-outreach/SKILL.md |
 | "end of day" / "debrief the day" | skills/daily-debrief/SKILL.md |
 | "find events" / "scout events" | skills/scout-events/SKILL.md |

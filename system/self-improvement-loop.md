@@ -11,7 +11,8 @@ Make the Brillect operating system sharper over time by learning from meetings, 
 3. The system extracts signal, asks targeted follow-up questions, and produces operating artifacts.
 4. The system updates durable memory and relevant Brillect data files when Seth approves or requests updates.
 5. Weekly, use Weekly Scorecard to review what created real pipeline rather than just activity.
-6. Monthly, improve qualification rules, outreach style, assessment language, priority relationship categories, and trigger patterns.
+6. Weekly or biweekly, use Pipeline Review to inspect active opportunities, qualification gaps, and coaching themes.
+7. Monthly, improve qualification rules, outreach style, assessment language, priority relationship categories, and trigger patterns.
 
 ## Weekly Buy-Signal Workflow
 
@@ -27,6 +28,21 @@ The workflow:
 6. Recommend updates to `data/signals.md`, `data/pe-sponsors.md`, `data/channel-attorneys.md`, `data/wisconsin-public-companies.md`, `data/deloitte-wisconsin-75.md`, and `data/followups.md`.
 
 No signal should sit as trivia. It should become a relationship action, a watch item, or be consciously deprioritized.
+
+## Pipeline Review Workflow
+
+Run `pipeline-review` weekly, biweekly, or whenever Seth asks for deal coaching.
+
+The workflow:
+
+1. Read active pipeline, follow-ups, watchlist, target accounts, signals, and qualification rules.
+2. Rate each active or near-active opportunity A, B, C, Nurture, or Drop/Park.
+3. Identify the best next move for each opportunity.
+4. Name the qualification gap: urgency, budget, buyer, timing, relationship path, or Brillect fit.
+5. Give Seth one direct but supportive coaching note.
+6. Recommend file updates so pipeline stays disciplined.
+
+The coaching standard: protect Seth's optimism, but discipline the pipeline.
 
 ## Post-Meeting Output Standard
 
